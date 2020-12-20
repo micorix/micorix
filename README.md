@@ -1,15 +1,13 @@
-<p>  
-  <a href="https://twitter.com/keenondev">Twitter</a> •
-  <a href="https://linkedin.com/in/micorix">LinkedIn</a> •
-  <a href="https://micorix.com">Website</a> •
-  <a href="mailto:hello@micorix.com">Send me an email</a>
-</p>
-
 <img src="./assets/banner.png" alt="Michał Oręziak" width="100%" />
+
+[Twitter](https://twitter.com/keenondev) •
+[LinkedIn](https://linkedin.com/in/micorix) •
+[Website](https://micorix.com) •
+[Send me an email](mailto:hello@micorix.com)
 
 # Hi there!
 
-My name is Michał Oręziak and I'm 🇵🇱  17 y/o frontend developer passionated about open-source. 
+My name is Michał Oręziak and I'm 🇵🇱  17 y/o frontend developer and open-source enthusiast. 
 
 ## Major projects
 
