@@ -5,7 +5,7 @@
   <a href="mailto:hello@micorix.com">Send me an email</a>
 </p>
 
----
+<img src="./assets/banner.png" alt="Michał Oręziak" width="100%" />
 
 # Hi there!
 
