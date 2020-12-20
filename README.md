@@ -15,7 +15,7 @@ My name is Michał Oręziak and I'm 🇵🇱  17 y/o frontend developer and open
 
 WarsawLO is the simplest and the fastest search engine for Warsaw high schools.
 
-We're currently build the app as open-source project under the auspices of [ePaństwo Foundation](https://epf.org.pl).
+We build the app as open-source project under the auspices of [ePaństwo Foundation](https://epf.org.pl).
 
 [![WarsawLO-2.0 Card](https://github-readme-stats.vercel.app/api/pin/?username=warsawlo&repo=warsawlo-2.0)](https://github.com/warsawlo/warsawlo-2.0)
  
