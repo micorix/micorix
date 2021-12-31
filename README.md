@@ -7,7 +7,7 @@
 
 # Hi there!
 
-My name is Michał Oręziak and I'm 🇵🇱  17 y/o frontend developer and open-source enthusiast. 
+My name is Michał Oręziak and I'm 🇵🇱  18 y/o frontend developer and open-source enthusiast. 
 
 ## Major projects
 
