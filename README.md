@@ -11,22 +11,22 @@ My name is Michał Oręziak and I'm 🇵🇱  17 y/o frontend developer and open
 
 ## Major projects
 
-### WarsawLO 🏫
+### po8klasie 🏫
 
-WarsawLO is the simplest and the fastest search engine for Warsaw high schools.
+po8klasie is the simplest and the fastest high schools lookup service.
 
-We build the app as open-source project under the auspices of [ePaństwo Foundation](https://epf.org.pl).
-
-[![WarsawLO-2.0 Card](https://github-readme-stats.vercel.app/api/pin/?username=warsawlo&repo=warsawlo-2.0)](https://github.com/warsawlo/warsawlo-2.0)
+[![po8klasie Card](https://github-readme-stats.vercel.app/api/pin/?username=po8klasie&repo=po8klasie)](https://github.com/po8klasie/po8klasie)
  
 
-### Hack Club Warsaw 🤖
+### HackClub.pl 🤖
 
-I'm the leader of [Hack Club Warsaw community](https://hackclub.pl). 
+I'm the leader of [HackClub.pl community](https://hackclub.pl). 
 
 
 ## My stack 💻
 
-I do mostly React & Gatsby stuff. (Experimenting with Vue, Svelte).
+I do mostly React, Next & Gatsby stuff. (Experimenting with Vue, Svelte).
+
+You can see overview stats from last year [here](https://micorix.wrapped.run)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micorix&layout=compact)
