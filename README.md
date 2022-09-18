@@ -7,7 +7,7 @@
 
 # Hi there!
 
-My name is Michał Oręziak and I'm 🇵🇱  18 y/o frontend developer and open-source enthusiast. 
+My name is Michał Oręziak and I'm 🇵🇱  19 y/o frontend engineer and open-source enthusiast. 
 
 ## Major projects
 
@@ -25,8 +25,8 @@ I'm the leader of [HackClub.pl community](https://hackclub.pl).
 
 ## My stack 💻
 
-I do mostly React, Next & Gatsby stuff. (Experimenting with Vue, Svelte).
+I do mostly front-end stuff. (Experimenting with FastAPI & NestJS).
 
 You can see overview stats from last year [here](https://micorix.wrapped.run)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micorix&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micorix&layout=compact&langs_count=6)
