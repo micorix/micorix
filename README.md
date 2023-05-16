@@ -9,7 +9,7 @@
 
 My name is Michał Oręziak and I'm 🇵🇱  20 y/o frontend engineer and open-source enthusiast. 
 
-I currently work at @qedsoftware as front-end engineer
+I currently work at [QED.ai](https://qed.ai) as front-end engineer.
 
 ## Major projects
 
@@ -22,13 +22,15 @@ What to expect?
 * FastAPI backend with some postgis magic for generating mvt files
 * some custom abstractions for scripts for data sourcing and seeding
 
+
 Website: https://po8klasie.pl
+
 GitHub: https://github.com/po8klasie
 
-Some repos:
+
 [![po8klasie web-frontend repo](https://github-readme-stats.vercel.app/api/pin/?username=po8klasie&repo=web-frontend)](https://github.com/po8klasie/web-frontend)
-[![po8klasie fast-api repo](https://github-readme-stats.vercel.app/api/pin/?username=po8klasie&repo=po8klasie-fast-api)](https://github.com/po8klasie/po8klasie-fastapi)
-[![po8klasie data-sources](https://github-readme-stats.vercel.app/api/pin/?username=po8klasie&repo=po8klasie-data-sources)](https://github.com/po8klasie/po8klasie-data-sources)
+[![po8klasie po8klasie-fastapi repo](https://github-readme-stats.vercel.app/api/pin/?username=po8klasie&repo=po8klasie-fastapi)](https://github.com/po8klasie/po8klasie-fastapi)
+[![po8klasie po8klasie-data-sources](https://github-readme-stats.vercel.app/api/pin/?username=po8klasie&repo=po8klasie-data-sources)](https://github.com/po8klasie/po8klasie-data-sources)
 
 
 ### HackClub.pl 🤖
