@@ -2,30 +2,51 @@
 
 [Twitter](https://twitter.com/keenondev) •
 [LinkedIn](https://linkedin.com/in/micorix) •
-[Website](https://micorix.com) •
-[Send me an email](mailto:hello@micorix.com)
+[Website](https://micorix.dev) •
+[Send me an email](mailto:michal@micorix.dev)
 
 # Hi there!
 
-My name is Michał Oręziak and I'm 🇵🇱  19 y/o frontend engineer and open-source enthusiast. 
+My name is Michał Oręziak and I'm 🇵🇱  20 y/o frontend engineer and open-source enthusiast. 
+
+I currently work at @qedsoftware as front-end engineer
 
 ## Major projects
 
 ### po8klasie 🏫
 
-po8klasie is the simplest and the fastest high schools lookup service.
+Open-sourced, customizable high schools lookup service.
 
-[![po8klasie Card](https://github-readme-stats.vercel.app/api/pin/?username=po8klasie&repo=po8klasie)](https://github.com/po8klasie/po8klasie)
- 
+What to expect?
+* Nextjs front-end
+* FastAPI backend with some postgis magic for generating mvt files
+* some custom abstractions for scripts for data sourcing and seeding
+
+Website: https://po8klasie.pl
+GitHub: https://github.com/po8klasie
+
+Some repos:
+[![po8klasie web-frontend repo](https://github-readme-stats.vercel.app/api/pin/?username=po8klasie&repo=web-frontend)](https://github.com/po8klasie/web-frontend)
+[![po8klasie fast-api repo](https://github-readme-stats.vercel.app/api/pin/?username=po8klasie&repo=po8klasie-fast-api)](https://github.com/po8klasie/po8klasie-fastapi)
+[![po8klasie data-sources](https://github-readme-stats.vercel.app/api/pin/?username=po8klasie&repo=po8klasie-data-sources)](https://github.com/po8klasie/po8klasie-data-sources)
+
 
 ### HackClub.pl 🤖
 
-I'm the leader of [HackClub.pl community](https://hackclub.pl). 
+I'm co-leader of [HackClub.pl community](https://hackclub.pl).
+We've organized meetups and workshops for high school students interested in technology.
 
+(Update: We've temporarily suspended our activity)
 
-## My stack 💻
+### Other
 
-I do mostly front-end stuff. (Experimenting with FastAPI & NestJS).
+You can find more at https://micorix.dev/experience
+
+## Tech 💻
+
+* All things front-end. Mostly: React, Next, Gatsby, Astro, TS.
+* Python. Occasionally: pandas, FastAPI & Django.
+* other
 
 You can see overview stats from last year [here](https://micorix.wrapped.run)
 
