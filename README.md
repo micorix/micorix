@@ -29,9 +29,6 @@ GitHub: https://github.com/po8klasie
 
 
 [![po8klasie web-frontend repo](https://github-readme-stats.vercel.app/api/pin/?username=po8klasie&repo=web-frontend)](https://github.com/po8klasie/web-frontend)
-[![po8klasie po8klasie-fastapi repo](https://github-readme-stats.vercel.app/api/pin/?username=po8klasie&repo=po8klasie-fastapi)](https://github.com/po8klasie/po8klasie-fastapi)
-[![po8klasie po8klasie-data-sources](https://github-readme-stats.vercel.app/api/pin/?username=po8klasie&repo=po8klasie-data-sources)](https://github.com/po8klasie/po8klasie-data-sources)
-
 
 ### HackClub.pl 🤖
 
